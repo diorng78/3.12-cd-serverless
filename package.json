@@ -1,0 +1,11 @@
+{
+  "name": "3.12-cd-serverless",
+  "version": "1.0.0",
+  "description": "Activities for today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dior Ng",
+  "license": "ISC"
+}
