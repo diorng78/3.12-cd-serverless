@@ -1,5 +1,5 @@
-service: 3.12-cd-serverless
-frameworkVersion: "3"
+service: dior-cd-serverless
+frameworkVersion: '3'
 
 provider:
   name: aws
